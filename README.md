@@ -54,7 +54,7 @@ La privacy è il diritto fondamentale di un individuo a controllare le informazi
 
 Il GDPR, General Data Protection Regulation, è un regolamento dell'Unione Europea che protegge la privacy e i dati personali dei cittadini dell'UE. È entrato in vigore nel 2018 e stabilisce regole rigide sul trattamento dei dati personali da parte delle organizzazioni, inclusi requisiti per la raccolta, l'elaborazione, la conservazione e la trasmissione dei dati. In breve, il GDPR mira a garantire che le persone abbiano maggiore controllo sui propri dati personali e che le aziende rispettino le norme sulla privacy.
 
-## Quiz più scelte
+## Quiz 
 - Di cosa abbiamo parlato?
 
 [[ ]] Privacy e GDPR
