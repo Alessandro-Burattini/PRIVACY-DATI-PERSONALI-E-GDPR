@@ -15,7 +15,7 @@ comment:  Questo lavoro servirà  a introdurre l'argomento della privacy, il tr
 
 # PRIVACY, DATI PERSONALI E GDPR
 
-Puoi visualizzare questo corso seguendo questo link: https://raw.githubusercontent.com/Alessandro-Burattini/PRIVACY-DATI-PERSONALI-E-GDPR/main/README.md
+Puoi visualizzare questa presentazione seguendo questo link: https://liascript.github.io/course/?https://raw.githubusercontent.com/Alessandro-Burattini/PRIVACY-DATI-PERSONALI-E-GDPR/main/README.md
 
 ![licenza Public Domain](https://creativecommons.it/chapterIT/wp-content/uploads/2021/01/cc-zero-300x106.png)
 
