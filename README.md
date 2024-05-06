@@ -15,7 +15,9 @@ comment:  Questo lavoro servirà  a introdurre l'argomento della privacy, il tr
 
 # PRIVACY, DATI PERSONALI E GDPR
 
-Puoi visualizzare questo corso seguendo questo link: 
+Puoi visualizzare questo corso seguendo questo link: https://raw.githubusercontent.com/Alessandro-Burattini/PRIVACY-DATI-PERSONALI-E-GDPR/main/README.md
+
+![licenza Public Domain](https://creativecommons.it/chapterIT/wp-content/uploads/2021/01/cc-zero-300x106.png)
 
 ## Scopo
 
@@ -88,4 +90,4 @@ Il GDPR, General Data Protection Regulation, è un regolamento dell'Unione Europ
 [[X]]8
 
 - Per cosa sta la sigla GDPR? (In inglese)
-[[General Data Protection Regulation]]]
+[[General Data Protection Regulation]]
