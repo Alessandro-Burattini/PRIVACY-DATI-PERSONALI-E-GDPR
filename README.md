@@ -15,13 +15,15 @@ comment:  Questo lavoro servirà  a introdurre l'argomento della privacy, il tr
 
 # PRIVACY, DATI PERSONALI E GDPR
 
-# Scopo
+Puoi visualizzare questo corso seguendo questo link: 
+
+## Scopo
 
 Questo modulo didattico ha l'obiettivo di introdurre le problematiche relative al diritto alla riservatezza, detto **privacy**, e al Regolamento Europeo sulla **Protezione dei dati personali**, in sigla **GDPR**...
 
 ---
 
-# Cosa sono i dati personali ?
+## Cosa sono i dati personali ?
 
 I dati personali sono tutte le informazioni relative a una persona vivente identificata o identificabile.
 
@@ -41,16 +43,16 @@ La Carta dei diritti fondamentali dell'Unione Europea afferma nell'articolo 8 ch
 
 Il regolamento protegge i dati personali a prescindere dalla tecnologia utilizzata per trattare tali dati.
 
-# **Cos'è la Privacy?**
+## **Cos'è la Privacy?**
 
 La privacy è il diritto fondamentale di un individuo a controllare le informazioni personali riguardanti sé stesso. Questo include il controllo su chi può accedere a tali informazioni, come vengono utilizzate e condivise. In breve, la privacy protegge la nostra sfera personale da intrusioni indesiderate.
 
-# **Cos'è il GDPR ?**
+## **Cos'è il GDPR ?**
 
 
 Il GDPR, General Data Protection Regulation, è un regolamento dell'Unione Europea che protegge la privacy e i dati personali dei cittadini dell'UE. È entrato in vigore nel 2018 e stabilisce regole rigide sul trattamento dei dati personali da parte delle organizzazioni, inclusi requisiti per la raccolta, l'elaborazione, la conservazione e la trasmissione dei dati. In breve, il GDPR mira a garantire che le persone abbiano maggiore controllo sui propri dati personali e che le aziende rispettino le norme sulla privacy.
 
-# Quiz più scelte
+## Quiz più scelte
 - Di cosa abbiamo parlato?
 
 [[ ]] Privacy e GDPR
@@ -86,4 +88,4 @@ Il GDPR, General Data Protection Regulation, è un regolamento dell'Unione Europ
 [[X]]8
 
 - Per cosa sta la sigla GDPR? (In inglese)
-[[General Data Protection Regulation]]
+[[General Data Protection Regulation]]]
